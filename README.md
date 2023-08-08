@@ -1,2 +1,2 @@
 # AluraBooks
-Projeto estudo de responsividade
+Projeto estudo de responsividade.
